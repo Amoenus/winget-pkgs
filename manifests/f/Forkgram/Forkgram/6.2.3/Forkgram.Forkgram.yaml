@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2025/Jul/17
+# Created with komac v2.13.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: 360.360File
-PackageVersion: 1.0.0.1170
+PackageIdentifier: Forkgram.Forkgram
+PackageVersion: 6.2.3
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
